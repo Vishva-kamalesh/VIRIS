@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- Shield -->
+  <path d="M256 64 L400 130 V272 C400 360 336 420 256 456 C176 420 112 360 112 272 V130 Z" 
+        fill="none" stroke="white" stroke-width="8" opacity="0.9"/>
+  <!-- V letter -->
+  <text x="256" y="320" text-anchor="middle" font-family="Arial Black, sans-serif" 
+        font-size="200" font-weight="900" fill="white" opacity="0.95">V</text>
+</svg>
